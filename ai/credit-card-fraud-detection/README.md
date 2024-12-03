@@ -27,10 +27,10 @@ source ./myvenv/bin/activate
 ## Packages
 
 ```bash
-cd ai\credit-card-fraud-detection\
+cd ai/credit-card-fraud-detection/
 pip install -r requirements.txt
 ```
 
 ## Dataset
 
-Download the needed dataset from here: <https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud>, and place the `creditcard.csv` in the `ai\credit-card-fraud-detection\dataset` folder.
+Download the needed dataset from here: <https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud>, and place the `creditcard.csv` in the `ai/credit-card-fraud-detection/dataset` folder.
