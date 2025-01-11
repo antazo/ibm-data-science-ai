@@ -2,7 +2,7 @@
 # Section 12, Coding Exercise 12
 # K Vecinos Más Cercanos para Clasificación
 
-csv_file = "ai/machine-learning/dataset/iris.csv"  # archivo de datos
+csv_file = "machine-learning/dataset/iris.csv"  # archivo de datos
 
 import pandas as pd
 from sklearn.neighbors import KNeighborsClassifier
